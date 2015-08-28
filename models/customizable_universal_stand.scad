@@ -141,12 +141,8 @@ else if (part == "right")
 {
 	right_part();
 } 
-else if (part == "both") 
+else 
 {
-	left_part();
-	right_part();
-} 
-else {
 	left_part();
 	right_part();
 }
